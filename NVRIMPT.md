@@ -125,7 +125,6 @@ All camera feeds were tested across three systems:
 * **NVMS7000**: Used for layout view and playback verification
 * **LTS NVR**: Confirmed centralized control, playback, and export features
 
-![Project Desk & Live Testing](/images/setupstation.jpg)
 
 ---
 
